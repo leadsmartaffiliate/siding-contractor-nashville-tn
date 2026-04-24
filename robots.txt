@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://siding-contractor-nashville-tn.netlify.app/sitemap.xml
